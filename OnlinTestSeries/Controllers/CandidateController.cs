@@ -10,7 +10,7 @@ namespace OnlinTestSeries.Controllers
     {
         // GET: Candidate
         public ActionResult Index()
-        {
+        { 
             return View();
         }
     }
